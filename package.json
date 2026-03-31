@@ -1,14 +1,10 @@
 {
   "name": "n8n-self-host",
   "version": "1.0.0",
-  "description": "n8n self-hosted on Render",
   "scripts": {
     "start": "n8n start"
   },
   "dependencies": {
     "n8n": "2.14.2"
-  },
-  "engines": {
-    "node": ">=22"
   }
 }
